@@ -1,0 +1,7 @@
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Proxy\bin\Release\HAPPY.Proxy.dll
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Proxy\bin\Release\HAPPY.Proxy.pdb
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Proxy\bin\Release\HAPPYWCF.dll
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Proxy\bin\Release\HAPPYWCF.pdb
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Proxy\obj\Release\HAPPY.Proxy.csprojResolveAssemblyReference.cache
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Proxy\obj\Release\HAPPY.Proxy.dll
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Proxy\obj\Release\HAPPY.Proxy.pdb

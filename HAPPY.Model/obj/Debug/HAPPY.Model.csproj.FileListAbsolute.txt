@@ -1,0 +1,11 @@
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Model\bin\Debug\HAPPY.Model.dll
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Model\bin\Debug\HAPPY.Model.pdb
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.csproj.CoreCompileInputs.cache
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.dll
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.pdb
+C:\Projetos\HAPPYWCF\HAPPY.Model\bin\Debug\HAPPY.Model.dll
+C:\Projetos\HAPPYWCF\HAPPY.Model\bin\Debug\HAPPY.Model.pdb
+C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.csprojAssemblyReference.cache
+C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.csproj.CoreCompileInputs.cache
+C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.dll
+C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.pdb

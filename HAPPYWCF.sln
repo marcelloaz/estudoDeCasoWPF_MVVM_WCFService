@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAPPYWCF", "HAPPYWCF\HAPPYWCF.csproj", "{D6756A5E-815D-4388-A287-371D6BE5EB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAPPYWPF", "HAPPYWPF\HAPPYWPF.csproj", "{32B4909D-672E-4AEA-990F-CC6A3194E5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAPPY.Model", "HAPPY.Model\HAPPY.Model.csproj", "{D20CE70D-9E1E-494A-99FC-3295A54C26C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAPPY.Service", "HAPPY.Service\HAPPY.Service.csproj", "{1B4BD003-913C-4CA9-BFF6-5D3153FB575D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAPPY.Proxy", "HAPPY.Proxy\HAPPY.Proxy.csproj", "{C0460BDF-BCD8-4330-8EDB-73CF4B4D02B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAPPY.Subscriber", "HAPPY.Subscriber\HAPPY.Subscriber.csproj", "{531183DD-803F-45DE-BE3E-17D276D8AB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6756A5E-815D-4388-A287-371D6BE5EB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6756A5E-815D-4388-A287-371D6BE5EB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6756A5E-815D-4388-A287-371D6BE5EB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6756A5E-815D-4388-A287-371D6BE5EB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B4909D-672E-4AEA-990F-CC6A3194E5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B4909D-672E-4AEA-990F-CC6A3194E5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B4909D-672E-4AEA-990F-CC6A3194E5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B4909D-672E-4AEA-990F-CC6A3194E5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20CE70D-9E1E-494A-99FC-3295A54C26C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20CE70D-9E1E-494A-99FC-3295A54C26C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20CE70D-9E1E-494A-99FC-3295A54C26C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20CE70D-9E1E-494A-99FC-3295A54C26C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4BD003-913C-4CA9-BFF6-5D3153FB575D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4BD003-913C-4CA9-BFF6-5D3153FB575D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4BD003-913C-4CA9-BFF6-5D3153FB575D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4BD003-913C-4CA9-BFF6-5D3153FB575D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0460BDF-BCD8-4330-8EDB-73CF4B4D02B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0460BDF-BCD8-4330-8EDB-73CF4B4D02B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0460BDF-BCD8-4330-8EDB-73CF4B4D02B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0460BDF-BCD8-4330-8EDB-73CF4B4D02B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531183DD-803F-45DE-BE3E-17D276D8AB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531183DD-803F-45DE-BE3E-17D276D8AB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531183DD-803F-45DE-BE3E-17D276D8AB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531183DD-803F-45DE-BE3E-17D276D8AB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8339D880-3769-451E-993A-A4237F2799DE}
+	EndGlobalSection
+EndGlobal

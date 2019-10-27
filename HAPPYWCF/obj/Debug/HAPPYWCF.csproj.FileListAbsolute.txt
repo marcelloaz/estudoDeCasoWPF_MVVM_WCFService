@@ -1,0 +1,19 @@
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPYWCF.dll.config
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPYWCF.dll
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPYWCF.pdb
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.dll
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.pdb
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPY.Proxy.dll
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPY.Proxy.pdb
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.csprojResolveAssemblyReference.cache
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.csproj.CoreCompileInputs.cache
+C:\Projetos\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPYWCF.dll.config
+C:\Projetos\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPYWCF.dll
+C:\Projetos\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPYWCF.pdb
+C:\Projetos\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.csprojAssemblyReference.cache
+C:\Projetos\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.csproj.CoreCompileInputs.cache
+C:\Projetos\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.dll
+C:\Projetos\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.pdb
+C:\Projetos\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPY.Proxy.dll
+C:\Projetos\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPY.Proxy.pdb
+C:\Projetos\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.csproj.CopyComplete

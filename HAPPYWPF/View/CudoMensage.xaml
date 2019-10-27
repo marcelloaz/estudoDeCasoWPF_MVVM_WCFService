@@ -1,0 +1,34 @@
+﻿<Window x:Class="HAPPYWPF.View.CudoMensage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HAPPYWPF.View"  Background="#181818"
+        mc:Ignorable="d"
+        Title="CudoMensage" Height="300" Width="300">
+    <Grid>
+        <Viewbox Margin="2">
+
+            <StackPanel  Width="300" >
+                <Image Source="/Imagens/logo.png" Width="171"></Image>
+
+                <Canvas Width="90" Height="90">
+                <Ellipse Width="100" Height="100" Fill="Yellow"
+                                                        Stroke="Black" StrokeThickness="6" />
+                <Ellipse Canvas.Left="25" Canvas.Top="23" Fill="Black"
+                                                        Width="15" Height="20" />
+                <Ellipse Canvas.Left="60" Canvas.Top="23" Fill="Black"
+                                                        Width="15" Height="20" />
+                <Path Stroke="Black" StrokeThickness="4" 
+                                                      Data="M20,60 Q 50,100 80,60" />
+            </Canvas>
+
+
+
+                <TextBlock FontSize="16" Margin="10" TextWrapping="Wrap" FontFamily="Verdana" Foreground="OrangeRed" x:Name="txtKudo"></TextBlock>
+                
+            </StackPanel>
+
+        </Viewbox>
+    </Grid>
+</Window>

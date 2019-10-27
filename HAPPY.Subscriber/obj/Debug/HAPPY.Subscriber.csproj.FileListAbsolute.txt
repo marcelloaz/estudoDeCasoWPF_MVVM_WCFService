@@ -1,0 +1,41 @@
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Subscriber.exe.config
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Subscriber.exe
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Subscriber.pdb
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Proxy.dll
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPYWCF.dll
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Proxy.pdb
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPYWCF.pdb
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPYWCF.dll.config
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\MainWindow.g.cs
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\App.g.cs
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber_MarkupCompile.cache
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber_MarkupCompile.lref
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\MainWindow.baml
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.g.resources
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.Properties.Resources.resources
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.csproj.GenerateResource.Cache
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.exe
+C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.pdb
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Subscriber.exe.config
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Subscriber.exe
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Subscriber.pdb
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Proxy.dll
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPYWCF.dll
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPY.Proxy.pdb
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPYWCF.pdb
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\bin\Debug\HAPPYWCF.dll.config
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.csprojAssemblyReference.cache
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\MainWindow.g.cs
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\App.g.cs
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber_MarkupCompile.cache
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber_MarkupCompile.lref
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\MainWindow.baml
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.g.resources
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.Properties.Resources.resources
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.csproj.GenerateResource.cache
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.csproj.CoreCompileInputs.cache
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.csproj.CopyComplete
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.exe
+C:\Projetos\HAPPYWCF\HAPPY.Subscriber\obj\Debug\HAPPY.Subscriber.pdb

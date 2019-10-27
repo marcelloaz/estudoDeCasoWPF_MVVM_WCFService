@@ -1,0 +1,5 @@
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Release\HAPPYWCF.dll.config
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Release\HAPPYWCF.dll
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPYWCF\bin\Release\HAPPYWCF.pdb
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPYWCF\obj\Release\HAPPYWCF.dll
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPYWCF\obj\Release\HAPPYWCF.pdb

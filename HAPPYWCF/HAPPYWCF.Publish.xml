@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="C:\HAPPY\SERVICE\">
+    <file relUrl="bin/HAPPYWCF.dll.config" publishTime="02/01/2018 10:27:11" />
+    <file relUrl="HAPPYWCF.DepartamentoPessoal.svc" publishTime="02/01/2018 18:29:20" />
+    <file relUrl="bin/HAPPYWCF.pdb" publishTime="02/01/2018 17:22:32" />
+    <file relUrl="Web.config" publishTime="02/01/2018 10:27:11" />
+    <file relUrl="bin/HAPPYWCF.dll" publishTime="02/01/2018 17:22:32" />
+  </publishTarget>
+</publishData>

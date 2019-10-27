@@ -1,0 +1,25 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+  <SolidColorBrush x:Key="IsChangedBackgroundBrush" Color="SteelBlue"/>
+
+  <!--Override of SystemColors for DataGrid and ComboBox selection-->
+  <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="#999999"/>
+  <SolidColorBrush x:Key="{x:Static SystemColors.InactiveSelectionHighlightBrushKey}" Color="#999999"/>
+  <SolidColorBrush x:Key="{x:Static SystemColors.WindowBrushKey}" Color="#999999"/>
+
+  <!--Default Brushes for the GosteiPromo-application-->
+    <SolidColorBrush x:Key="DefaultForegroundBrush" Color="#777777"/>
+    <SolidColorBrush x:Key="DefaultBackgroundBrush" Color="#272727"/>
+    <SolidColorBrush x:Key="DefaultBorderBrush" Color="#5b5b5b"/>
+
+    <SolidColorBrush x:Key="DisabledBorderBrush" Color="#454545"/>
+  <SolidColorBrush x:Key="DisabledForegroundBrush" Color="Gray"/>
+
+    <SolidColorBrush x:Key="LabelForegroundBrush" Color="#ffffff"/>
+
+    <SolidColorBrush x:Key="ButtonMouseOverBackgroundBrush" Color="#e75c00"/>
+  <SolidColorBrush x:Key="ButtonIsPressedBackgroundBrush" Color="#999999"/>
+  <SolidColorBrush x:Key="ButtonIsPressedBorderBrush" Color="#777777"/>
+    <SolidColorBrush x:Key="ButtonMouseOverBorderBrush" Color="#ababab"/>
+</ResourceDictionary>

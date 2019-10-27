@@ -1,0 +1,4 @@
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Model\bin\Release\HAPPY.Model.dll
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Model\bin\Release\HAPPY.Model.pdb
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Model\obj\Release\HAPPY.Model.dll
+C:\Users\marcello.azevedo\documents\visual studio 2015\Projects\HAPPYWCF\HAPPY.Model\obj\Release\HAPPY.Model.pdb
