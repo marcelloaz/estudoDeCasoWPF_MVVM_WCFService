@@ -40,17 +40,17 @@ namespace HAPPYWPF.DataProvider.Lookups
         {
             try
             {
-                TesteCon();
-                var itemsFunc = new List<Mensagem>();
-                EndpointAddress address = new EndpointAddress(serverEndPont);
-                Binding binding = new NetTcpBinding();
+                //TesteCon();
+                //var itemsFunc = new List<Mensagem>();
+                //EndpointAddress address = new EndpointAddress(serverEndPont);
+                //Binding binding = new NetTcpBinding();
 
-                FuncionarioClient proxy = new FuncionarioClient(new InstanceContext(this), "tcpPentagoService");
-                proxy.Open();
+                //FuncionarioClient proxy = new FuncionarioClient(new InstanceContext(this), "tcpPentagoService");
+                //proxy.Open();
 
-                proxy.GetMensagens();
+                //proxy.GetMensagens();
 
-                proxy.Close();
+                //proxy.Close();
 
             }
             catch (Exception ex)

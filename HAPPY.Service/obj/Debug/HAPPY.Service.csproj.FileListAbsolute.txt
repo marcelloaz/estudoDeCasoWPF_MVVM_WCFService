@@ -1,36 +1,12 @@
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.exe.config
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.exe.manifest
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.application
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.exe
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.pdb
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Proxy.dll
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPYWCF.dll
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Proxy.pdb
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPYWCF.pdb
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.csprojResolveAssemblyReference.cache
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.exe.manifest
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.application
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.exe
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.pdb
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPYWCF.dll.config
-C:\Users\marcello.azevedo\Documents\Visual Studio 2015\Projects\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.csproj.CoreCompileInputs.cache
-F:\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.exe.config
-F:\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.exe
-F:\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.pdb
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.exe.config
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.exe.manifest
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.application
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.exe
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Service.pdb
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Proxy.dll
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPYWCF.dll
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPY.Proxy.pdb
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPYWCF.pdb
-C:\Projetos\HAPPYWCF\HAPPY.Service\bin\Debug\HAPPYWCF.dll.config
-C:\Projetos\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.csprojAssemblyReference.cache
-C:\Projetos\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.csproj.CoreCompileInputs.cache
-C:\Projetos\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.exe.manifest
-C:\Projetos\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.application
-C:\Projetos\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.csproj.CopyComplete
-C:\Projetos\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.exe
-C:\Projetos\HAPPYWCF\HAPPY.Service\obj\Debug\HAPPY.Service.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPY.Service.exe.config
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPY.Service.exe
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPY.Service.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPY.Proxy.dll
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPYWCF.dll
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPY.Proxy.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPYWCF.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\bin\Debug\HAPPYWCF.dll.config
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\obj\Debug\HAPPY.Service.csprojAssemblyReference.cache
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\obj\Debug\HAPPY.Service.csproj.CopyComplete
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\obj\Debug\HAPPY.Service.exe
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Service\obj\Debug\HAPPY.Service.pdb

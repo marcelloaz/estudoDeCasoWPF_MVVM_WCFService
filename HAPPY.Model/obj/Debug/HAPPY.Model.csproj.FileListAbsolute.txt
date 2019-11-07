@@ -9,3 +9,7 @@ C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.csprojAssemblyReference.c
 C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.csproj.CoreCompileInputs.cache
 C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.dll
 C:\Projetos\HAPPYWCF\HAPPY.Model\obj\Debug\HAPPY.Model.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Model\bin\Debug\HAPPY.Model.dll
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Model\bin\Debug\HAPPY.Model.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Model\obj\Debug\HAPPY.Model.dll
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPY.Model\obj\Debug\HAPPY.Model.pdb

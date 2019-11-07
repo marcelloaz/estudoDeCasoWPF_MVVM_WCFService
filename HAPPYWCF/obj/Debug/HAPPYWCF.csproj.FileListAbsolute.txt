@@ -17,3 +17,12 @@ C:\Projetos\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.pdb
 C:\Projetos\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPY.Proxy.dll
 C:\Projetos\HAPPYWCF\HAPPYWCF\bin\Debug\HAPPY.Proxy.pdb
 C:\Projetos\HAPPYWCF\HAPPYWCF\obj\Debug\HAPPYWCF.csproj.CopyComplete
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\bin\Debug\HAPPYWCF.dll.config
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\bin\Debug\HAPPYWCF.dll
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\bin\Debug\HAPPYWCF.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\obj\Debug\HAPPYWCF.dll
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\obj\Debug\HAPPYWCF.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\bin\Debug\HAPPY.Proxy.dll
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\bin\Debug\HAPPY.Proxy.pdb
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\obj\Debug\HAPPYWCF.csprojAssemblyReference.cache
+C:\Users\NOTE_79\Documents\estudoDeCasoWPF_MVVM_WCFService\HAPPYWCF\obj\Debug\HAPPYWCF.csproj.CopyComplete

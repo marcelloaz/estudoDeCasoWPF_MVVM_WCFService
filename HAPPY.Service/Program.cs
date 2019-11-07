@@ -17,17 +17,17 @@ namespace HAPPY.Service
             ServiceHost hostDPManager = new ServiceHost(typeof(DepartamentoPessoal));
             hostDPManager.Open();
 
-            ServiceHost hostPubSubManager = new ServiceHost(typeof(PubSubManager));
-            hostPubSubManager.Open();
+            //ServiceHost hostPubSubManager = new ServiceHost(typeof(PubSubManager));
+            //hostPubSubManager.Open();
 
             PrintServiceInfo(hostDPManager);
-            PrintServiceInfo(hostPubSubManager);
+            //PrintServiceInfo(hostPubSubManager);
 
             Console.WriteLine("Serviço Iniciado. Press [Enter] para finalizar.");
             Console.ReadLine();
 
             hostDPManager.Close();
-            hostPubSubManager.Close();
+           // hostPubSubManager.Close();
         
         }
 
